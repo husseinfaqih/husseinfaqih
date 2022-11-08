@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+:heavy_check_mark: HTML
+:heavy_check_mark: CSS
+:heavy_check_mark: GIT
+
+- 🌱 I’m currently learning **_Javascript_**
+
 <!--
 **husseinfaqih/husseinfaqih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
