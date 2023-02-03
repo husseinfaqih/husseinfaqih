@@ -3,8 +3,12 @@
 :heavy_check_mark: HTML
 :heavy_check_mark: CSS
 :heavy_check_mark: GIT
+:heavy_check_mark: Javascript
+:heavy_check_mark: DOM
+:heavy_check_mark: API's
+:heavy_check_mark: Node.js
 
-- 🌱 I’m currently learning **_Javascript_**
+- 🌱 I’m currently learning **_Databases_**
 
 
 <!--
