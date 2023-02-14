@@ -8,7 +8,7 @@
 :heavy_check_mark: API's
 :heavy_check_mark: Node.js
 
-- 🌱 I’m currently learning **_Databases_SQL and NoSQL**
+- 🌱 I’m currently learning **Databases >> SQL and NoSQL**
 
 
 <!--
