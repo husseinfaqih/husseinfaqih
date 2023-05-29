@@ -5,7 +5,7 @@ I am currently seeking new opportunities as a full-stack developer / Let's colla
 :heavy_check_mark: CSS
 :heavy_check_mark: GIT
 :heavy_check_mark: Javascript
-:heavy_check_mark: API's
+:heavy_check_mark: Utilizing third-party libraries/APIs
 :heavy_check_mark: Node.js
 :heavy_check_mark: Databases (MySQL/MongoDB)
 :heavy_check_mark: React
